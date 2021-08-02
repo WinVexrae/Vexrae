@@ -1,6 +1,6 @@
-# Vexrae Beta Project
+# Vexrae
 
- ! WARNING !
-* The program is a beta test and cannot fulfill its task ("Computer Protection")
+ ! Info !
+* The program is already performing its function "Computer protection"
  
 
